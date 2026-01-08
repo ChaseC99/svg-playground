@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--logos" width="31.88" height="32" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 257">
+    <rect width="256" height="257" fill="#fff" rx="32"/>
+    <circle cx="50" cy="50" r="20" fill="red"/>
+    <rect x="100" y="100" width="50" height="30" fill="blue"/>
+    <ellipse cx="200" cy="150" rx="40" ry="20" fill="green"/>
+    <polygon points="150,50 200,50 175,100" fill="yellow"/>
+</svg>
